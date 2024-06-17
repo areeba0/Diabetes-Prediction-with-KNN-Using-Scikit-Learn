@@ -24,10 +24,15 @@ For each test instance, the K nearest neighbors are found, and the majority clas
 
 ## 3.Accuracy Evaluation
 * The accuracy of the classifier is computed for different values of k (3, 5, 11).
+![image](https://github.com/areeba0/Diabetes-Prediction-with-KNN-Using-Scikit-Learn/assets/136759791/36c56c4d-2a1e-429b-bce4-383a86ac4436)
+
 
 ## 4. Visualization
 - Accuracy Plot: Accuracy vs. k values.
+  ![image](https://github.com/areeba0/Diabetes-Prediction-with-KNN-Using-Scikit-Learn/assets/136759791/94e90210-9a23-4bbf-a41c-2b72251e1949)
+
 - Scatter Plot: Visualization of Glucose vs. BloodPressure for the test set, with different colors indicating the class.
+![image](https://github.com/areeba0/Diabetes-Prediction-with-KNN-Using-Scikit-Learn/assets/136759791/d6a3ac75-927b-4152-90bf-627b8c7a9d0f)
 
 # Dataset
 The dataset is the Pima Indians Diabetes Database. It contains medical records for women of Pima Indian heritage, aged 21 and older. The data includes 8 features and a target variable indicating diabetes.
